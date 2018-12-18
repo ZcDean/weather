@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="cool_weather"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="com.tvm.weather.db.Province"/>
+        <mapping class="com.tvm.weather.db.City"/>
+        <mapping class="com.tvm.weather.db.Country"/>
+    </list>
+</litepal>
